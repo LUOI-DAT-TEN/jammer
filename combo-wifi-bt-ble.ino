@@ -4,13 +4,9 @@
 #include <BLEUtils.h>
 #include <BLEServer.h>
 #include <Adafruit_NeoPixel.h>
-
-// Pin Definitions
 #define BOOT_PIN 0
 #define LED_PIN 48
-#define LED_COUNT 1
-
-// Modes
+#define LED_COUNT 
 #define MODE_IDLE 0
 #define MODE_WIFI_JAM 1
 #define MODE_BT_CLASSIC_JAM 2
